@@ -24,7 +24,7 @@ To run the code in this repository, follow these steps:
    pip install -r requirements.txt
    ```
 
-4. Launch jypyter notebook. You may refer this [**this link**](https://docs.jupyter.org/en/latest/running.html) for guidance.
+4. Launch jupyter notebook. You may refer this [**this link**](https://docs.jupyter.org/en/latest/running.html) for guidance.
 
 5. Modify code in [**LDA model**](https://github.com/SanghamitraDas1/Topic_Modelling_CEO_Letters_to_Shareholders/blob/main/LDA_Topic_Modelling.ipynb) and [**Bertopic model**](https://github.com/SanghamitraDas1/Topic_Modelling_CEO_Letters_to_Shareholders/blob/main/Bertopic_Topic_Modelling.ipynb) under the section titled **'Loading the Files'**. Modify as needed to load from google drive or locally.
 
