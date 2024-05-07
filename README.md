@@ -5,7 +5,7 @@ This repository contains code and resources for topic modeling of CEO letters to
 
 ## Google Colab Links
 
-You can directly view the notebooks on google colab here: [**BerTopic**](https://drive.google.com/file/d/1mgvuW8gKeQ9xllObjcua9h0yHQeb_WDQ/view?usp=drive_link) [**LDA**](https://drive.google.com/file/d/1c9cTW5UpKm7b6mzmVHFkWjqVxJihwvS0/view?usp=drive_link)
+You can directly view the notebooks on google colab here: [**BERTopic**](https://drive.google.com/file/d/1mgvuW8gKeQ9xllObjcua9h0yHQeb_WDQ/view?usp=drive_link) [**LDA**](https://drive.google.com/file/d/1c9cTW5UpKm7b6mzmVHFkWjqVxJihwvS0/view?usp=drive_link)
 
 ## Dataset
 The dataset used for this analysis consists of CEO letters to shareholders from various companies and is located within the '/data' folder
